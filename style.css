@@ -85,6 +85,10 @@ body::before {
     font-family: 'Inter', sans-serif;
 }
 
+.container__input::placeholder{
+    font-size: 16px;
+}
+
 #texto__paragrafo_secundario{
     color: red;
     font-size: 20px;
