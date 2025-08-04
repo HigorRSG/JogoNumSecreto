@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Higor Garcia</sub>](https://github.com/gabrielle-ribeiro) |
-| :---: | :---: |
+| [<img loading="lazy" src="./img/higor.jpg" width=115><br><sub>Higor Garcia</sub>](https://github.com/gabrielle-ribeiro) |
+| :---: |
